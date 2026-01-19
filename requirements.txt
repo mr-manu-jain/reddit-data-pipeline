@@ -1,0 +1,10 @@
+# Providers
+apache-airflow-providers-celery
+apache-airflow-providers-redis
+apache-airflow-providers-postgres
+
+# Project Dependencies
+pandas
+numpy
+praw
+python-dotenv
